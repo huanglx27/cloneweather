@@ -5,9 +5,9 @@
     <version value="1" />
 
     <list>
-        <mapping class="com.cloneweather.android.db.Province"/>
-        <mapping class="com.cloneweather.android.db.City"/>
-        <mapping class="com.cloneweather.android.db.County"/>
+        <mapping class="com.example.cloneweather.db.Province"/>
+        <mapping class="com.example.cloneweather.db.City"/>
+        <mapping class="com.example.cloneweather.db.County"/>
     </list>
 
 </litepal>
